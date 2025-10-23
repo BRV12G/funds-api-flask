@@ -23,4 +23,6 @@ step 7: initialize everything in init.py file like db, flask app.
 
 setp 8: initialize the database models in models.py file.
 
+step 9: create the routes starting with app.py
+
 
